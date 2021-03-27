@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAndBehavior", "DataAndBehavior\DataAndBehavior.csproj", "{B02A568F-D13D-4B95-AD68-5E53FB5D6ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02A568F-D13D-4B95-AD68-5E53FB5D6ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02A568F-D13D-4B95-AD68-5E53FB5D6ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02A568F-D13D-4B95-AD68-5E53FB5D6ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02A568F-D13D-4B95-AD68-5E53FB5D6ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F185D755-495F-4548-9C31-E1C2A9698648}
+	EndGlobalSection
+EndGlobal
